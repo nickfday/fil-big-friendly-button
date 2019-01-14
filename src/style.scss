@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 24px;
+  text-align: center;
+}
+
+.client-option {
+  background: #f7f7f8;
+  text-align: center;
+  cursor: pointer;
+  img {
+    width: 255px;
+    height: 150px;
+  }
+}
+
+.country-selector {
+  .flag {
+    margin-bottom: 20px;
+    img {
+      height: 24px;
+      width: 34px;
+      margin-right: 10px;
+    }
+  }
+}
